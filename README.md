@@ -145,3 +145,12 @@
 - 微信公众号: 扫描下面的二维码关注公众号 `Rust语言中文网`
 
 <img src="https://github.com/sunface/rust-course/blob/main/assets/studyrust公众号.png?raw=true" />
+
+## 维护与在线文档
+
+本仓库是 [sunface/rust-course](https://github.com/sunface/rust-course) 的 Fork，保留上游来源、目录约定及许可证。
+
+- [在线维护文档](https://xiaoshecode.github.io/xiaoshecode/repos/rust-course/)
+- [仓库维护说明](MAINTENANCE.md)：用途、环境、目录结构、检查结果和待验证事项。
+
+2026-10-30 的检查范围以维护说明为准；语法检查通过不代表完整构建、模型训练或硬件验证通过。
